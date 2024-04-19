@@ -1,7 +1,5 @@
 <h1> Olá, me chamo Vitor Arthur </h1>
 
-<p> Redes Sociais: 👋 </p>
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-arthur-0435242a3/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorArtC)
 
