@@ -10,3 +10,5 @@
 ### Linguagens:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArtC&layout=compact)
+
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
