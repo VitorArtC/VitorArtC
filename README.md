@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Olá%2C+eu+sou+o+Vitor+Arthur+👋;Desenvolvedor+C%23+%2F+.NET;Construindo+aplicações+sólidas+e+bem+estruturadas" alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Vitor+Arthur;Desenvolvedor+C%23+%2F+.NET;Bem-vindo+ao+meu+perfil" alt="Typing Effect" />
 
 <br>
 
@@ -45,6 +45,8 @@ Sou desenvolvedor focado em **C# e .NET**, com interesse em construir aplicaçõ
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 </td>
     <td valign="top" width="50%">
@@ -52,6 +54,7 @@ Sou desenvolvedor focado em **C# e .NET**, com interesse em construir aplicaçõ
 **Frameworks & Ferramentas**
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
@@ -70,18 +73,20 @@ Sou desenvolvedor focado em **C# e .NET**, com interesse em construir aplicaçõ
 
 ## 📌 Projetos em destaque
 
-<!--
-  Troque NOME_DO_REPOSITORIO pelo nome real de cada repositório.
-  Copie/cole mais cards se quiser mostrar mais projetos.
--->
-
 <div align="center">
 
-<a href="https://github.com/VitorArtC/NOME_DO_REPOSITORIO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorArtC&repo=NOME_DO_REPOSITORIO_1&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="Projeto 1" />
+<a href="https://github.com/VitorArtC/Folhah">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorArtC&repo=Folhah&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="Folhah" />
 </a>
-<a href="https://github.com/VitorArtC/NOME_DO_REPOSITORIO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorArtC&repo=NOME_DO_REPOSITORIO_2&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="Projeto 2" />
+<a href="https://github.com/VitorArtC/Sistema_de_Analise_Pluviometrica">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorArtC&repo=Sistema_de_Analise_Pluviometrica&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="Sistema de Análise Pluviométrica" />
+</a>
+<br>
+<a href="https://github.com/VitorArtC/Curso-CSharp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorArtC&repo=Curso-CSharp&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="Curso C#" />
+</a>
+<a href="https://github.com/VitorArtC/Comidas_Tipicas_2026">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VitorArtC&repo=Comidas_Tipicas_2026&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="Comidas Típicas 2026" />
 </a>
 
 </div>
@@ -107,18 +112,6 @@ Sou desenvolvedor focado em **C# e .NET**, com interesse em construir aplicaçõ
 
 <img src="https://streak-stats.demolab.com/?user=VitorArtC&hide_border=true&background=00000000&stroke=8b949e55&ring=58A6FF&fire=58A6FF&currStreakNum=8b949e&currStreakLabel=58A6FF&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="Streak no GitHub" />
 
-</div>
-
-<br>
-
-## 📈 Atividade
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VitorArtC&bg_color=0d1117&color=8b949e&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&title_color=58A6FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VitorArtC&bg_color=ffffff&color=57606a&line=58A6FF&point=24292f&area=true&area_color=58A6FF&hide_border=true&title_color=58A6FF" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorArtC&bg_color=ffffff&color=57606a&line=58A6FF&point=24292f&area=true&area_color=58A6FF&hide_border=true&title_color=58A6FF" alt="Gráfico de atividade" width="100%" />
-  </picture>
 </div>
 
 <br>
