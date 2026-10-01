@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Me+chamo+Vitor+Arthur;Desenvolvedor+C%23+%2F+.NET;Bem-vindo+ao+meu+perfil" alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Bem-vindo+ao+meu+perfil;Me+chamo+Vitor+Arthur;Desenvolvedor+C%23+%2F+.NET" alt="Typing Effect" />
 
 <br>
 
