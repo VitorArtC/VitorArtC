@@ -79,8 +79,6 @@ var foco = new[]
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorArtC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorArtC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 <img src="https://streak-stats.demolab.com?user=VitorArtC&theme=tokyonight&hide_border=true" width="60%"/>
 
