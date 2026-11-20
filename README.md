@@ -51,12 +51,12 @@ Sou desenvolvedor focado em **C#** e **.NET**, com interesse em construir aplica
 
 <div align="center">
 
-| Projeto | Descrição |
+| Projeto & Objetos de Estudo | Descrição |
 |:--|:--|
-| 🌿 [**Folhah**](https://github.com/VitorArtC/Folhah) | Descreva o projeto em uma linha |
-| 🌧️ [**Sistema de Análise Pluviométrica**](https://github.com/VitorArtC/REPO) | Descreva o projeto em uma linha |
-| 📘 [**Curso C#**](https://github.com/VitorArtC/REPO) | Descreva o projeto em uma linha |
-| 🍲 [**Comidas Típicas 2026**](https://github.com/VitorArtC/REPO) | Descreva o projeto em uma linha |
+| 🌿 [**Folhah**](https://github.com/VitorArtC/Folhah) | Sistema de Folha de Pagamento |
+| 🌧️ [**Sistema de Análise Pluviométrica**](https://github.com/VitorArtC/REPO) | Cálculos de precipitação para meteorologistas |
+| 🍲 [**Comidas Típicas 2026**](https://github.com/VitorArtC/REPO) | Classificação Binária de Texto com NLP para Validação de Pratos Típicos Regionais |
+| 📘 [**Curso C#**](https://github.com/VitorArtC/REPO) | Atividades para prova de conhecimento em C# |
 
 </div>
 
