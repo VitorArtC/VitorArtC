@@ -37,11 +37,11 @@ Sou desenvolvedor focado em **C#** e **.NET**, com interesse em construir aplica
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,html,css&theme=dark" />
 
 **Frameworks & Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=dotnet,git,github,vscode,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,git,github,vscode,visualstudio&theme=dark" />
 
 </div>
 
